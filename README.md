@@ -35,6 +35,12 @@ Con una rica colección de datos caracterizando entidades en varias dimensiones 
 
 Datos recopilados de [Datos Abiertos BNE](https://datosabiertos.bne.es/en/).
 
+## Licencia
+Apache 2.0 
+
+## Contacto
+isabelocastillods@gmail.com
+
 ## Apoyo
 Si este dataset te ha sido de utilidad, por favor apóyalo con un 👍 y compártelo con otros interesados en el análisis del panorama digital en Andalucía.
 
